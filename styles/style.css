@@ -1,0 +1,10 @@
+
+footer{
+    background: linear-gradient(270.00deg, rgba(255, 0, 0, 0.1),rgba(255, 137, 56, 0.1) 100%);
+}
+footer input{
+    background-color: rgb(254, 229, 229);
+}
+div div ul li{
+    padding-bottom: 7px;
+}
