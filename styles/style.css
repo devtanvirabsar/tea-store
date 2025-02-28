@@ -7,4 +7,16 @@ footer input{
 }
 div div ul li{
     padding-bottom: 7px;
+    color: #777777;
+}
+.box-1{
+    border-radius: 10px;
+
+background: linear-gradient(270.00deg, rgb(255, 0, 0) 0%,rgb(255, 137, 56) 100%);
+opacity: 0.1;
+
+}
+.box-2{
+    border-radius: 10px;
+background: linear-gradient(90.00deg, rgb(217, 217, 217),rgba(255, 255, 255, 0) 100%);
 }
